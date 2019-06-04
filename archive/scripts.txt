@@ -1,0 +1,10 @@
+case.sh
+comparison.sh
+create.sh
+fileconditions.sh
+functions.sh
+hello.sh
+ifelse.sh
+input.sh
+loops.sh
+variables.sh
